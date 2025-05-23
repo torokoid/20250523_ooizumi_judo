@@ -133,7 +133,7 @@ p.note { display: none; }
     
     
     
-<h2><span class="yellow">庭の薔薇が咲きましたが、まだ蕾も控えてます</span></h2>
+<h2><span class="yellow">LINE会話から共有画像まで</span></h2>
 <a href="20250523_002.png" target="_blank"><img src="20250523_002.png" alt="サンプル画像" width="900" /></a>
 <a href="20250523_003.png" target="_blank"><img src="20250523_003.png" alt="サンプル画像" width="900" /></a>
 <a href="20250523_004.png" target="_blank"><img src="20250523_004.png" alt="サンプル画像" width="900" /></a>
