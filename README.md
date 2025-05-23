@@ -73,7 +73,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(https://torokoid.github.io/20250523_ooizumi_judo/20250523_001.png) center/cover no-repeat;
+background:url(https://torokoid.github.io/20250516_tochigi/20250516_018.JPG) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
