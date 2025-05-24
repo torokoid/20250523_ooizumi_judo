@@ -147,7 +147,7 @@ p.note { display: none; }
 <a href="20250523_006.png" target="_blank"><img src="20250523_006.png" alt="サンプル画像" width="900" /></a>
 <a href="20250523_007.png" target="_blank"><img src="20250523_007.png" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">画像クリックで動画再生します↓</span></h2>
+<h2><span class="yellow">画像クリックで動画に飛びます↓</span></h2>
 <a href="https://drive.google.com/file/d/1j08D9CTPhbFtaF1DbBAEX9HOdHiNfGFn/view" target="_blank"><img src="20250523_005.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br><br><br><br><br><br><br><br>
