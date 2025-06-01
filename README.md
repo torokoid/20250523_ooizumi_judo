@@ -157,6 +157,16 @@ p.note { display: none; }
 <h2><span class="yellow">画像クリックで動画に飛びます↓</span></h2>
 <a href="https://drive.google.com/file/d/1HaWNnutqaHHjcyMamv8XgHYrK1wNvqf9/view" target="_blank"><img src="20250523_010.png" alt="サンプル画像" width="900" /></a>
 
+<br><br><br>
+<h2><span class="yellow">2025年6月1日、元田無高校柔道部顧問の柳浦先生から素晴らしいお話が共有されましたので、こちらに記録しておきます。</span></h2>
+<a href="20250601_001.png" target="_blank"><img src="20250601_001.png" alt="サンプル画像" width="900" /></a>
+<a href="20250601_002.png" target="_blank"><img src="20250601_002.png" alt="サンプル画像" width="900" /></a>
+<a href="20250601_003.png" target="_blank"><img src="20250601_003.png" alt="サンプル画像" width="900" /></a>
+<a href="20250601_004.png" target="_blank"><img src="20250601_004.png" alt="サンプル画像" width="900" /></a>
+<a href="20250601_001.jpg" target="_blank"><img src="20250601_001.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20250601_002.jpg" target="_blank"><img src="20250601_002.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20250601_003.jpg" target="_blank"><img src="20250601_003.jpg" alt="サンプル画像" width="900" /></a>
+
 <br><br><br><br><br><br><br><br><br>
 
 
