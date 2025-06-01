@@ -158,7 +158,7 @@ p.note { display: none; }
 <a href="https://drive.google.com/file/d/1HaWNnutqaHHjcyMamv8XgHYrK1wNvqf9/view" target="_blank"><img src="20250523_010.png" alt="サンプル画像" width="900" /></a>
 
 <br><br><br>
-<h2><span class="yellow">2025年6月1日、元田無高校柔道部顧問の柳浦先生から素晴らしいお話が共有されましたので、こちらに記録しておきます。</span></h2>
+<h2><span class="yellow">2025年6月1日、元田無高校柔道部顧問の柳浦先生から素晴らしいお話が共有されました<br>LINEでは画像が消えてしまうので、こちらに追記しておきます。</span></h2>
 <a href="20250601_001.png" target="_blank"><img src="20250601_001.png" alt="サンプル画像" width="900" /></a>
 <a href="20250601_002.png" target="_blank"><img src="20250601_002.png" alt="サンプル画像" width="900" /></a>
 <a href="20250601_003.png" target="_blank"><img src="20250601_003.png" alt="サンプル画像" width="900" /></a>
