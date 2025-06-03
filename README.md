@@ -164,6 +164,7 @@ p.note { display: none; }
 <a href="20250601_003.png" target="_blank"><img src="20250601_003.png" alt="サンプル画像" width="900" /></a>
 <a href="20250601_004.png" target="_blank"><img src="20250601_004.png" alt="サンプル画像" width="900" /></a>
 <a href="20250601_005.png" target="_blank"><img src="20250601_005.png" alt="サンプル画像" width="900" /></a>
+<a href="20250601_006.png" target="_blank"><img src="20250601_006.png" alt="サンプル画像" width="900" /></a>
 
 <a href="20250601_001.jpg" target="_blank"><img src="20250601_001.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20250601_002.jpg" target="_blank"><img src="20250601_002.jpg" alt="サンプル画像" width="900" /></a>
